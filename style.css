@@ -1,0 +1,32 @@
+
+    h1{
+        color:brown;
+        text-align: center;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+        
+}
+
+h2{
+    color:brown;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+}
+.container{
+    display: block;
+    margin: auto;
+    width: 413px;
+    align-items: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+
+}
+.container img{
+    width: 220px;
+    align-items: center;
+    margin-left: 100px;
+}
+    
+        
+        
+
+    
